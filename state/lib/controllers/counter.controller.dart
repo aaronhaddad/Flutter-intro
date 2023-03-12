@@ -1,0 +1,1 @@
+class CounterController extends <getxcontroller> {}
